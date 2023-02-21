@@ -6,7 +6,7 @@
   - [Python Exercises](https://github.com/Bogdan-Yanovich/py_exercises)
   
 - <b>Power Bi</b>
-  - [Power Bi Projects](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Power Bi Projects](https://github.com/Bogdan-Yanovich/power_bi_exercises)
  
 - <b>SQL</b>
   - [SQL Exercises](https://github.com/Bogdan-Yanovich/sql_exercises)
