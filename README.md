@@ -3,16 +3,13 @@
 <h2>👨‍💻 What do I know</h2>
  
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Exercises](https://github.com/Bogdan-Yanovich/py_exercises)
   
 - <b>Power Bi</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Power Bi Projects](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
  
 - <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [SQL Exercises](https://github.com/Bogdan-Yanovich/sql_exercises)
  
 - <b>Certifications</b>
   - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
