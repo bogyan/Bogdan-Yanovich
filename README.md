@@ -13,10 +13,14 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
+- <b>Certifications</b>
+  - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
+  - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-0bd99d3e-8754-4d98-8df2-380dc669f6cb/)
+  - [From Data to Insights with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/JVTGJ93QPXCR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+  - [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-d92527ce-cc03-4d2c-869f-032b131041e8/)
+  - [Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/certificate/UC-91086214-68e6-40ab-9831-1b504b7301cd/)
 
-<h2>👨‍💻 What do I know</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
   
 
