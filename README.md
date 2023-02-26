@@ -4,8 +4,8 @@
  
 - <b>Python</b>
   - [Python Exercises](https://github.com/Bogdan-Yanovich/py_exercises)
-  - [Python Projects](https://github.com/Bogdan-Yanovich/py_exercises)
-  - [Social Data Science Student Hackathon 2022](https://github.com/Bogdan-Yanovich/py_exercises)
+  - [Python Projects](https://github.com/Bogdan-Yanovich/py_projects)
+  - [Social Data Science Student Hackathon 2022](https://github.com/Bogdan-Yanovich/py_hackathon)
   
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/Bogdan-Yanovich/power_bi_exercises)
