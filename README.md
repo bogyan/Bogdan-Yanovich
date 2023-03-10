@@ -3,16 +3,18 @@
 <h2>👨‍💻 What do I know</h2>
  
 - <b>Python</b>
-  - [Python Exercises](https://github.com/Bogdan-Yanovich/py_exercises)
-  - [Python Projects](https://github.com/Bogdan-Yanovich/py_projects)
+  - [Python Projects and Exercises](https://github.com/Bogdan-Yanovich/py_exercises)
   - [Social Data Science Student Hackathon 2022](https://github.com/Bogdan-Yanovich/py_hackathon)
+ 
+- <b>R</b>
+  - [R Projects and Exercises](https://github.com/Bogdan-Yanovich/R)
   
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/Bogdan-Yanovich/power_bi_exercises)
  
 - <b>SQL</b>
   - [SQL Exercises](https://github.com/Bogdan-Yanovich/sql_exercises)
- 
+
 - <b>Certifications</b>
   - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
   - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-0bd99d3e-8754-4d98-8df2-380dc669f6cb/)
