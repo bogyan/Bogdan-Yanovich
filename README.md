@@ -31,7 +31,7 @@
 [<img align="left" alt="BogdanYanovich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 
 [instagram]: https://www.facebook.com/profile.php?id=100020923567561
-[linkedin]: www.linkedin.com/in/bogyan
+[linkedin]: https://www.linkedin.com/in/bogyan
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
